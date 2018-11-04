@@ -85,7 +85,7 @@ a:visited {
 
 /* ~~~~~ MOBILE SCREEN ~~~~~ */
 
-@media screen and (max-width:800px) {
+@media (max-width:800px) {
 
 body {
   display: flex;
