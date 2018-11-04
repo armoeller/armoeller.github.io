@@ -73,19 +73,7 @@ a:visited {
 }
 
 /* ~~~~~ MOBILE BREAKPOINT ~~~~~ */
-@media only screen and (max-width: 950px) {
- 
-  header {
-
-		position: absolute;
-
-	}
-
-	#menu-icon {
-
-		display:inline-block;
-
-	}
+@media only screen and (max-width: 640px) {
 
 body {
   display: flex;
