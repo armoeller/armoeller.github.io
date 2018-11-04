@@ -73,7 +73,7 @@ a:visited {
 }
 
 /* ~~~~~ MOBILE BREAKPOINT ~~~~~ */
-@media only screen and (max-width: 640px) {
+@media only screen and (max-width: 800px) {
 
 body {
   display: flex;
