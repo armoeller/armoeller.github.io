@@ -81,7 +81,7 @@ img {
 
 /* ~~~~~ MOBILE VIEW ~~~~~ */
 
-@media screen and (max-width: 950px) {
+@media (max-width: 950px) {
 
 .menu {
   display: none;
