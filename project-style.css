@@ -80,6 +80,17 @@ body {
   flex-direction: column;
   justify-content: center;
 }
+  
+h5 {
+  font-size: 14px;
+  font-weight: 300;
+  line-height: .5em;
+}
+
+h4 {
+  font-family: 'Archivo Black';
+  font-size: 18px;
+}
 
 .main-field {
     flex-shrink: 1;
